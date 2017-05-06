@@ -53,3 +53,4 @@ end
 gem 'simple_form'
 gem 'slim'
 gem 'dotenv'
+gem 'bootstrap-sass'
